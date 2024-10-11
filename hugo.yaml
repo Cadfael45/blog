@@ -1,0 +1,5 @@
+baseURL: "https://Cadfael45.github.io/blog/"
+languageCode: en-us
+title: My New Hugo Blog Site
+theme: PaperMod
+
