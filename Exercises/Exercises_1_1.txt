@@ -1,0 +1,17 @@
+Practice Exercises for Data Analytics, Chapter 1  
+
+Exercise DA 1.1  
+
+Open the file 'ch_01.xlsx', used in the video 'DA_C01_main'. Use Excel's Table features to answer the following questions:  
+a. What is the total number of rows in the table?  
+b. In how many rows is 'fresh' greater or equal to 2000?
+c. In how many rows is 'grocery' between 5000 and 8000?  
+d. In how many rows is 'frozen' greater than 'grocery'?
+e. How many different customer IDs are there? (Hint: Use the 'UNIQUE()' function.)
+f. How many different channels and regions are there? (Same hint.)
+g. In how many rows is 'frozen' greater than 'grocery'?  
+   Hint: You will need to create a new column in the table to answer this question.
+         Enter a formula to find the difference between 'frozen' and `grocery` in the first row of the new column. When you enter the formula, Excel will automatically fill in the rest of the column.  
+         Then use the Table column filter dialog to count the number of rows where the difference is positive.  
+h. (Continuing part g.) How many rows are there where 'frozen' is greater than 'grocery' and 'fresh' is greater than 'milk'?  
+  

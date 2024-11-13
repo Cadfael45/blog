@@ -1,0 +1,17 @@
+Practice Exercises for Data Analytics, Chapter 1   
+  
+Exercise DA 1.2  
+  
+Open the file "bitcoin_daily_data.csv" in Excel.  
+(This is the file used in the videos "DA_C01_Xtra1" and "DA_C01_Xtra2").  
+Answer the following questions:  
+a. What is the maximum value of 'Close' in the data?
+b. What is the minimum value of 'Close' in the data?
+c. Create a new column called 'Daily_Vol' that calculates the daily volume traded.  
+   (This will be 10^8 times the value of column 'Daily_Vol_10e8')  
+   Format it to show one decimal place.  
+   (Hint: Use the formatting section of the Home Tab.)
+d. What is the average value of 'Daily_Vol' for the year 2021?  
+e. Find the maximum value of the spread between 'High' and 'Low'.
+f. In how many rows is the 'Close' value greater than the average 'Close' value for the year 2021?
+g. In how many rows is the 'Close' value greater than the average 'Close' value for the year 2022 and the 'Daily_Vol' is greater than the average 'Daily_Vol' for the year 2022?
