@@ -4,3 +4,8 @@ body {
     text-align: left;
     font-family: Arial, sans-serif;
 }
+
+ol li {
+    display: list-item;
+    list-style-position: inside;
+}
