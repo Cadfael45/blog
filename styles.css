@@ -3,9 +3,21 @@ body {
     background: lightgray;
     text-align: left;
     font-family: Arial, sans-serif;
-}
-
+    
 ol li {
     display: list-item;
     list-style-position: inside;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 }
