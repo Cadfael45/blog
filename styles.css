@@ -7,17 +7,21 @@ body {
 ol li {
     display: list-item;
     list-style-position: inside;
-}
+  }
 
 .column {
   float: left;
   width: 50%;
-}
+  }
 
 /* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
   clear: both;
+  }
 }
+
+h1 {
+  color: blue;
 }
